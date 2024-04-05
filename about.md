@@ -5,6 +5,7 @@ title: About the Project
 
 The Governance Archaeology database catalogs individual political communities that developed at least one _collective governance institution_. A collective governnace institution is a structure where a group of more than one person gathers to make decisions on behalf of the community.
 <br>
+<br>
 Each community has one or more _institutions_, and each institution operates through one or more _mechanisms_. [Mechanisms](https://excavations.digital/taxonomy/) are specific practices or rules governing _access_ to the institutions, _decision-making_, as well as _enforcement_. 
 
 ### Methodology
