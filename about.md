@@ -3,7 +3,7 @@ layout: post
 title: About the Project
 ---
 
-The Governance Archaeology database catalogs individual political communities that developed at least one _collective governance institution_. A collective governnace institution is a structure where a group of more than one person gathers to make decisions on behalf of the community.
+The Governance Archaeology database catalogs individual political communities that developed at least one _collective governance institution_. A collective governance institution is a structure where a group of more than one person gathers to make decisions on behalf of the community.
 <br>
 <br>
 Each community has one or more _institutions_, and each institution operates through one or more _mechanisms_. Mechanisms are specific practices or rules governing _access_ to the institutions, _decision-making_, as well as _enforcement_. 
@@ -21,3 +21,13 @@ While much of the more readily available data comes from the West, we have delib
 - [Riley Wong](https://www.rileynwong.com/)
 - [Júlia Martins Rodrigues](https://www.linkedin.com/in/j%C3%BAlia-martins-rodrigues-phd-963435144/)
 - [Darija Medić](https://www.colorado.edu/cmci/people/graduate-students/intermedia-art-writing-and-performance/darija-medic)
+
+
+### Participating Organizations
+- [King’s College London](https://www.kcl.ac.uk/)
+- [MEDLab, University of Colorado Boulder](https://www.colorado.edu/lab/medlab/)
+- [Metagov](https://metagov.org/)
+
+### Funders
+- [Ethereum Foundation](https://ethereum.foundation/)
+- [King’s College London](https://www.kcl.ac.uk/)
