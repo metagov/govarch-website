@@ -4,5 +4,8 @@ title: Database and Documentation
 ---
 
 ### [Governance Archaeology Database: v1.2](https://airtable.com/appvYlkHheYBuvDdR/shrPD4OrKdIMAfgwP)
-<br>
-<br>
+
+<p style="text-align: center;">
+---
+TK: Documentation
+</p>
