@@ -2,13 +2,10 @@
   url: /
 
 - title: About the Project
-  url: about.html
+  url: about
 
-- title: Database
-  url: database.html
+- title: Documentation
+  url: documentation
 
-- title: Excavations
-  url: https://excavations.digital/
-
-- title: Research as ancestry
-  url: https://www.amacad.org/publication/governance-archaeology-research-ancestry
+- title: Publications
+  url: publications

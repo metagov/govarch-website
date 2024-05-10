@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Database
+title: Documentation
 ---
 
 ## [Governance Archaeology Database: v1.2](https://airtable.com/appvYlkHheYBuvDdR/shrPD4OrKdIMAfgwP)

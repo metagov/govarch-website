@@ -2,7 +2,6 @@
 title: Governance Archaeology
 layout: post
 ---
-
 <center>
 Explore collective governance practices across culture, history, and geography. 
 <br>
