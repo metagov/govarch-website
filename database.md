@@ -3,9 +3,6 @@ layout: post
 title: Database
 ---
 
-<<<<<<< Updated upstream:database.md
-### [Governance Archaeology Database: v1.2](https://airtable.com/appvYlkHheYBuvDdR/shrPD4OrKdIMAfgwP)
-=======
 ## [Governance Archaeology Database: v1.2](https://airtable.com/appvYlkHheYBuvDdR/shrPD4OrKdIMAfgwP)
 
 ## Documentation
@@ -32,4 +29,3 @@ title: Database
     - 10,000,000+ 
     - Unknown
 - **Source:** Source material documenting community information.
->>>>>>> Stashed changes:documentation.md
