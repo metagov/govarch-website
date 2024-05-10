@@ -5,7 +5,7 @@ title: About the Project
 
 Governance Archaeology is an approach to learning from the past to inform the politics of the future.
 
-We are co-producing a global commons of collective governance practices that can inspire institutional learning and experimentation, particularly in the face of rapid technological change and vexing global crises. Embedded in our approach is an orientation of ancestry whereby practitioners cultivate relationships of accountability and responsibility to the legacies they learn from, recognizing the harm from past patterns of exploitation. By taking seriously a wide range of historical governance practices, particularly those outside the Western canon, governance archaeology seeks to expand the options available for the design of more moral political economies.
+We are co-producing a global commons of collective governance practices that can inspire institutional learning and experimentation, particularly in the face of rapid technological change and vexing global crises. Embedded in our approach is an orientation of ancestry whereby practitioners cultivate relationships of accountability and responsibility to the legacies they learn from, recognizing the harm from past patterns of exploitation. By taking seriously a wide range of historical governance practices, particularly those outside the Western canon, governance archaeology seeks to expand the options available for the design of more moral political economies. 
 
 # Methodology
 
