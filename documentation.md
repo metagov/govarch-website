@@ -3,7 +3,7 @@ layout: post
 title: Documentation
 ---
 
-## [Governance Archaeology Database: v1.2](https://airtable.com/appvYlkHheYBuvDdR/shrPD4OrKdIMAfgwP)
+# [Governance Archaeology Database: v1.2](https://airtable.com/appvYlkHheYBuvDdR/shrPD4OrKdIMAfgwP)
 
 ## Documentation
 
@@ -18,14 +18,5 @@ title: Documentation
 - **Time span:** Written text description of the centuries in which the community existed in history. 
 - **Time span: start:** Starting century encoded as integers, with negative numbers denoting BC, and positive numbers denoting AD. 
 - **Time span: end:** Ending century encoded as integers, with negative numbers denoting BC, and positive numbers denoting AD. 
-- **Size:** The number of members in the community. While some communities may have additionally granular size encodings, community size is generally bucketed in the following groups:
-    - 1 - 10
-    - 11 - 100
-    - 100 - 1,000
-    - 1,001 - 10,000
-    - 10,001 - 100,000
-    - 100,001 - 1,000,000
-    - 1,000,001 - 10,000,000
-    - 10,000,000+ 
-    - Unknown
+- **Size:** The number of members in the community. While some communities may have additionally granular size encodings, community size is generally bucketed in the following groups: `1 - 10`; `11 - 100`; `100 - 1,000`; `1,001 - 10,000`; `10,001 - 100,000`; `100,001 - 1,000,000`; `1,000,001 - 10,000,000`; `10,000,000+`; `Unknown`
 - **Source:** Source material documenting community information.

@@ -7,40 +7,41 @@ body {
 }
 
 h1 {
-  font-size: 3em;
-  margin: .5em auto;
-}
-
-h2 {
   font-size: 2em;
-  margin: 1em auto;
+  margin: .5em auto;
   text-align: center;
 }
 
-h3 {
+h2 {
   font-size: 1.5em;
+  margin: 0.5em auto;
+  text-align: left;
+}
+
+h3 {
+  font-size: 1.25em;
   margin: 0.5em auto;
   text-align: center;
 }
 
 h4 {
-  font-size: 1.25em;
+  font-size: 1em;
   font-style: italic;
-  margin: 1.875em auto;
+  margin: 0.25em auto;
   text-align: center;
 }
 
 h5 {
-  font-size: 1em;
+  font-size: .875em;
   font-style: italic;
-  margin: 2em auto;
+  margin: 0.25em auto;
   text-align: center;
 }
 
 h6 {
-  font-size: .875em;
+  font-size: .6em;
   font-style: italic;
-  margin: 2.25em auto;
+  margin: 0.25em auto;
   text-align: center;
 }
 

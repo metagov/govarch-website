@@ -3,13 +3,12 @@ layout: post
 title: Publications
 ---
 
-# Governance Archaeology: Research as Ancestry (2023)
+## Governance Archaeology: Research as Ancestry (2023)
 
 **Federica Carugati and Nathan Schneider, "[Governance Archaeology: Research as Ancestry](https://www.amacad.org/publication/governance-archaeology-research-ancestry)," _Daedalus_ (Winter 2023)**
-
 > This essay presents the idea of governance archaeology, an approach to learning from the past to inform the politics of the future. By reporting on a prototype historical database, we outline a strategy for co-producing a global commons of collective governance practices that can inspire institutional learning and experimentation, particularly in the face of rapid technological change and vexing global crises. Embedded in our approach is an orientation of ancestry whereby practitioners cultivate relationships of accountability and responsibility to the legacies they learn from, recognizing the harm from past patterns of exploitation. By taking seriously a wide range of historical governance practices, particularly those outside the Western canon, governance archaeology seeks to expand the options available for the design of more moral political economies.
 
-# Excavations: Governance Archaeology for the Future of the Internet (2021)
+## Excavations: Governance Archaeology for the Future of the Internet (2021)
 
 **[Excavations.digital](https://excavations.digital/about/)**
 
