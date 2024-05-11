@@ -4,6 +4,7 @@ title: Documentation
 ---
 
 # [Governance Archaeology Database: v1.2](https://airtable.com/appvYlkHheYBuvDdR/shrPD4OrKdIMAfgwP)
+<iframe class="airtable-embed" src="https://airtable.com/embed/appvYlkHheYBuvDdR/shrPD4OrKdIMAfgwP?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="420" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Documentation
 
