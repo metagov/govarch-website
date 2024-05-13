@@ -11,8 +11,8 @@ title: Documentation
 **Last updated:** May 2024
 
 - **Name:** The name of the community with collective governance practices. 
-- **Community:** 
-- **Institution:**  
+- **Community:** The group of people governed by the collective governance institution and the institutions connected to it within a political unit. 
+- **Institution:** A structure through which legislative or judicial decisions are made.
 - **Collective governance institution:** Any structure where a group of more than one person gathers to make decisions on behalf of the community.
 - **Mechanism:** A text description of a specific governance practice or rule. In this database, mechanisms are grouped into three broad categories: *access*, defining access to the instutition; *decision-making*, regulating decision-making processes; and *enforcement*, guiding enforcement practices.
 - **Geography:**
