@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Governance Archaeology",
-    "home_page_url": "https://govarc.medlab.host/",
-    "feed_url": "https://govarc.medlab.host/feed.json",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
     "description": "TK Governance Archaeology description",
     "icon": "",
-    "favicon": "https://govarc.medlab.host/favicon.ico",
+    "favicon": "http://localhost:4000/favicon.ico",
     "expired": false,
     "items": [
     
