@@ -29,4 +29,5 @@ While much of the more readily available data comes from the West, we have delib
 ## Funders
 
 - [Ethereum Foundation](https://ethereum.foundation/)
+- [Eutopia Foundation](https://eutopiafoundation.org/)
 - [King’s College London](https://www.kcl.ac.uk/)
