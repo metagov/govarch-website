@@ -1,11 +1,17 @@
 ---
 layout: post
-title: Documentation
+title: Database
 ---
 
-## View the full database here: <a href="https://airtable.com/appvYlkHheYBuvDdR/shrPD4OrKdIMAfgwP">Governance Archaeology Database, v1.2</a>
+## Methodology
+
+We began collecting data in the summer of 2021, and we have so far coded 67 discrete communities, over 300 institutions, and about 100 institutional mechanisms. We began looking into existing databases of documented groups around the world, such as the [Ethnographic Atlas](https://d-place.org/contributions/EA) and the [Human Relations Area Files](https://hraf.yale.edu/), and proceeded to identify communities that fit our criteria. 
+
+While much of the more readily available data comes from the West, we have deliberately sought to cover less well-known, and often less well-documented, non-Western cases. The reasons, as we explain in a recent _[Daedalus](https://www.amacad.org/publication/governance-archaeology-research-ancestry)_ article, are empirical and ethical: as globalization and advances in digitization enable us to learn more about the  diversity of political arrangements around the world and throughout history, the usual Western-centered view seems increasingly myopic. Moreover, if the goal of this project is contributing to retrofit modern democracy with an eye to participation and inclusion, then we need to design for a “pluriverse,” a space in which many social worlds can fit.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appvYlkHheYBuvDdR/shrPD4OrKdIMAfgwP?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="420" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+<strong><a href="https://airtable.com/appvYlkHheYBuvDdR/shrPD4OrKdIMAfgwP">View the full database here</a>.</strong>
 
 ## Documentation
 
@@ -22,10 +28,3 @@ title: Documentation
 - **Time span: end:** Ending century encoded as integers, with negative numbers denoting BC, and positive numbers denoting AD. 
 - **Size:** The number of members in the community. While some communities may have additionally granular size encodings, community size is generally bucketed in the following groups: `1 - 10`; `11 - 100`; `100 - 1,000`; `1,001 - 10,000`; `10,001 - 100,000`; `100,001 - 1,000,000`; `1,000,001 - 10,000,000`; `10,000,000+`; `Unknown`
 - **Source:** Citation of material documenting community information.
-
-## Methodology
-
-We began collecting data in the summer of 2021, and we have so far coded 67 discrete communities, over 300 institutions, and about 100 institutional mechanisms. We began looking into existing databases of documented groups around the world, such as the [Ethnographic Atlas](https://d-place.org/contributions/EA) and the [Human Relations Area Files](https://hraf.yale.edu/), and proceeded to identify communities that fit our criteria. 
-
-While much of the more readily available data comes from the West, we have deliberately sought to cover less well-known, and often less well-documented, non-Western cases. The reasons, as we explain in a recent [Daedalus](https://www.amacad.org/publication/governance-archaeology-research-ancestry) piece, are empirical and ethical: as globalization and advances in digitization enable us to learn more about the  diversity of political arrangements around the world and throughout history, the usual Western-centered view seems increasingly myopic. Moreover, if the goal of this project is contributing to retrofit modern democracy with an eye to participation and inclusion, then we need to design for a “pluriverse,” a space in which many social worlds can fit.
-
