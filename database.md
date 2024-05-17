@@ -9,9 +9,10 @@ We began collecting data in the summer of 2021, and we have so far coded 67 disc
 
 While much of the more readily available data comes from the West, we have deliberately sought to cover less well-known, and often less well-documented, non-Western cases. The reasons, as we explain in a recent _[Daedalus](https://www.amacad.org/publication/governance-archaeology-research-ancestry)_ article, are empirical and ethical: as globalization and advances in digitization enable us to learn more about the  diversity of political arrangements around the world and throughout history, the usual Western-centered view seems increasingly myopic. Moreover, if the goal of this project is contributing to retrofit modern democracy with an eye to participation and inclusion, then we need to design for a “pluriverse,” a space in which many social worlds can fit.
 
+<br>
 <iframe class="airtable-embed" src="https://airtable.com/embed/appvYlkHheYBuvDdR/shrPD4OrKdIMAfgwP?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="420" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-<strong><a href="https://airtable.com/appvYlkHheYBuvDdR/shrPD4OrKdIMAfgwP">View the full database here</a>.</strong>
+## <a href="https://airtable.com/appvYlkHheYBuvDdR/shrPD4OrKdIMAfgwP">View the full database here</a>.
 
 ## Documentation
 
