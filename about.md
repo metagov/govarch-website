@@ -23,4 +23,5 @@ We are co-producing a global commons of collective governance practices that can
 ## Funders
 
 - [Ethereum Foundation](https://ethereum.foundation/)
+- [Eutopia Foundation](https://eutopiafoundation.org/)
 - [King’s College London](https://www.kcl.ac.uk/)
