@@ -1,11 +1,11 @@
 - title: Home
   url: /
 
-- title: About the Project
-  url: about
+- title: Database
+  url: database
 
-- title: Documentation
-  url: documentation
+- title: About
+  url: about
 
 - title: Publications
   url: publications
