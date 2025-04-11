@@ -14,15 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Governance Archaeology
-# email: hello@patdryburgh.com
 description: >- # this means to ignore newlines until "baseurl:"
   TK Governance Archaeology description
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://archaeology.ecologies.info" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://govarch.ecologies.info" # the base hostname & protocol for your site, e.g. http://example.com
 # url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 # icon: /assets/images/icon-512.png
-# twitter_username: patdryburgh
-# github_username:  patdryburgh
 
 # Build settings
 markdown: kramdown
